@@ -1,3 +1,5 @@
+My Discord is koinapov
+
 # lottery.aleo
 
 ## Run Guide
